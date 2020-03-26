@@ -4,8 +4,8 @@
 
 Just another simple todolist: [Demo on github](https://mariuskaz.github.io/todolist)
 
-<img src="https://mariuskaz.github.io/todolist/img/week_view.png"/>
-<img src="https://mariuskaz.github.io/todolist/img/timeline.png"/>
+<img src="https://mariuskaz.github.io/images/week_view.png"/>
+<img src="https://mariuskaz.github.io/images/timeline.png"/>
 
 ## Requirements
 
